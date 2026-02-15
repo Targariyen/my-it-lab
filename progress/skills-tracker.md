@@ -1,5 +1,5 @@
 Content:
 # Progress Tracker
-See Google Sheets for live tracking
+See OnlyOffice for local tracking
 
 Commit: "Add progress"
